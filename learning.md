@@ -3,7 +3,8 @@
 - add, commit, push on github
 - pull
 - how to create issues
-- branch and merging
+- branch
+- merging
 - resolve merge conflict
 - collaboration
 - contribution

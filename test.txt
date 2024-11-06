@@ -70,6 +70,10 @@ More on GitHub & Git
     - Python, c, c++, Perl, Tcl
     - Linus Torvalds (Develper of Linux Kernel) and Junio C Hamano
 
-    Today is Wednesday.
-    I started my office at 7 am.
-    I finished my office at 7 am.
+Today is Wednesday.
+I started my office at 7 am.
+I finished my office at 7 am.
+
+I will go to play badminton.
+I need to reserve court.
+I will pickup other people from ther home.

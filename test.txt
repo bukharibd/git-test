@@ -69,3 +69,7 @@ More on GitHub & Git
     - Released: April 7, 2005
     - Python, c, c++, Perl, Tcl
     - Linus Torvalds (Develper of Linux Kernel) and Junio C Hamano
+
+    Today is Wednesday.
+    I started my office at 7 am.
+    I finished my office at 7 am.
